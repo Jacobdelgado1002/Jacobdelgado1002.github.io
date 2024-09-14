@@ -1123,24 +1123,24 @@ pre {
   #nav-search-text {
     display: inline-block;
   }
+}
 
-  /* Custom Content Styling */
+/* Custom Content Styling */
 
-  table tr.year {
-    background-color: transparent;
-  }
+table tr.year {
+  background-color: transparent;
+}
 
-  table tr td, table tr {
-    border: transparent;
-  }
+table tr td, table tr {
+  border: transparent;
+}
 
-  .img-circle {
-    border-radius: 50%;
-  }
+.img-circle {
+  border-radius: 50%;
+}
 
-  .img-resp {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-  }
+.img-resp {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
 }
