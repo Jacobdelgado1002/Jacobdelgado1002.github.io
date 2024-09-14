@@ -20,11 +20,11 @@ author: Edge Computing Group
 ###############################################
 
 navbar-links:
-  Home: "https://Edge-Computing-UPR.github.io"
+  Home: "https://jacobdelgado1002.github.io/edge-computing-upr.github.io/photos"
   Members: "members"
   Publications: "publications"
   Other:
-    - Lab photos: "photos"
+    - Lab photos: "lab_photos"
 
 ################
 # --- Logo --- #
@@ -134,16 +134,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#9e0000"
-hover-col: "#a10000"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#98FB98"        # PaleGreen
+navbar-text-col: "#2E8B57"   # SeaGreen
+navbar-border-col: "#D3D3D3" # LightGray
+page-col: "#FFFFFF"          # White
+text-col: "#4B4B4B"          # DarkGray
+link-col: "#3CB371"          # MediumSeaGreen
+hover-col: "#2E8B57"         # SeaGreen (darker hover effect)
+footer-col: "#F0F0F0"        # Very light gray for footer background
+footer-text-col: "#6E6E6E"   # Gray for footer text
+footer-link-col: "#2F4F4F"   # DarkSlateGray for footer links
+
 
 # page-col: "#FFFFFF"
 # text-col: "#404040"
