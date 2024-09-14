@@ -5,6 +5,6 @@ slim: true
 ---
 
 ## Fall 2024 Semester
-![Fall 2024 Semester](images/lab_photos/test_img.jpg)
+![Fall 2024 Semester](../images/lab_photos/test_img.jpg)
 
 
