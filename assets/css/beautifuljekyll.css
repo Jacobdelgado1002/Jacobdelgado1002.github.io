@@ -58,6 +58,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
+  color: #55883B;
   font-size: 2.25rem;
 }
 h2 {
@@ -1121,5 +1122,25 @@ pre {
   }
   #nav-search-text {
     display: inline-block;
+  }
+
+  /* Custom Content Styling */
+
+  table tr.year {
+    background-color: transparent;
+  }
+
+  table tr td, table tr {
+    border: transparent;
+  }
+
+  .img-circle {
+    border-radius: 50%;
+  }
+
+  .img-resp {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
   }
 }
