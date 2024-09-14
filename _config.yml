@@ -134,16 +134,16 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#98FB98"        # PaleGreen
-navbar-text-col: "#2E8B57"   # SeaGreen
-navbar-border-col: "#D3D3D3" # LightGray
-page-col: "#FFFFFF"          # White
-text-col: "#4B4B4B"          # DarkGray
-link-col: "#3CB371"          # MediumSeaGreen
-hover-col: "#2E8B57"         # SeaGreen (darker hover effect)
-footer-col: "#F0F0F0"        # Very light gray for footer background
-footer-text-col: "#6E6E6E"   # Gray for footer text
-footer-link-col: "#2F4F4F"   # DarkSlateGray for footer links
+navbar-col: "#C1E899"        # Light green for navbar background
+navbar-text-col: "#55883B"   # Dark green for navbar text 
+navbar-border-col: "#E6F0DC" # Very light green 
+page-col: "#FFFFFF"          # White for page background
+text-col: "#404040"          # Gray
+link-col: "#55883B"          # Dark green for links, matching navbar text
+hover-col: "#9A6735"         # Brown for hover effect, matching text color
+footer-col: "#E6F0DC"        # Light green for footer background
+footer-text-col: "#55883B"   # Dark green for footer text
+footer-link-col: "#9A6735"   # Brown for footer links, matching text and hover
 
 
 # page-col: "#FFFFFF"
