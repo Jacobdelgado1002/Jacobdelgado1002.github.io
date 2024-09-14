@@ -76,8 +76,8 @@
   list:
     - full: true
       list:
-        - name: TBA
-          image: ../images/members/test_img.jpg
+        - name: Jacob
+          image: ../images/members/jacob.jpg
           website: https://jacobdelgado1002.github.io/
           alt:  
         - name: TBA
