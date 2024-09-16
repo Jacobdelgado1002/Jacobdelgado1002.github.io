@@ -10,68 +10,68 @@
   list:
     - full: true
       list:
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
+        - name: 
+          image: 
+          website: 
           alt:  
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
+        - name: 
+          image: 
+          website: 
           alt:  
-- name: PhD Students
-  list:
-    - full: true
-      list:
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          coadvisor: 
-          coadvisorweb: 
-          alt: 
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          coadvisor: 
-          coadvisorweb: 
-          alt: 
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          coadvisor: 
-          coadvisorweb: 
-          alt: 
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          coadvisor: 
-          coadvisorweb: 
-          alt: 
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          coadvisor: 
-          coadvisorweb: 
-          alt: 
-- name: Master's Students
-  list:
-    - full: true
-      list:
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          alt:  
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          alt:  
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          alt:  
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          alt:  
+# - name: PhD Students
+#   list:
+#     - full: true
+#       list:
+#         - name: 
+#           image: 
+#           website: 
+#           coadvisor: 
+#           coadvisorweb: 
+#           alt: 
+#         - name: 
+#           image: 
+#           website: 
+#           coadvisor: 
+#           coadvisorweb: 
+#           alt: 
+#         - name: 
+#           image: 
+#           website: 
+#           coadvisor: 
+#           coadvisorweb: 
+#           alt: 
+#         - name: 
+#           image: 
+#           website: 
+#           coadvisor: 
+#           coadvisorweb: 
+#           alt: 
+#         - name: 
+#           image: 
+#           website: 
+#           coadvisor: 
+#           coadvisorweb: 
+#           alt: 
+# - name: Master's Students
+#   list:
+#     - full: true
+#       list:
+#         - name: 
+#           image: 
+#           website: 
+#           alt:  
+#         - name: 
+#           image: 
+#           website: 
+#           alt:  
+#         - name: 
+#           image: 
+#           website: 
+#           alt:  
+#         - name: 
+#           image: 
+#           website: 
+#           alt:  
 - name: Undergraduate Students
   list:
     - full: true
@@ -82,78 +82,76 @@
           alt:  
         - name: Sebastián A. Cruz Romero
           image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
+          website: 
           alt:  
         - name: Andrea P. Seda Hernández
           image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
+          website: 
           alt:          
           - name: Miguel Giboyeaux Camilo
           image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
+          website: 
           alt:  
         - name: Juan D. Guadalupe Rosado
           image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
+          website: 
           alt:  
-        - name: TBA
+        - name: Ricardo A Morrel Rodriguez
           image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
+          website: 
           alt:  
-        - name: TBA
+        - name: Sebastian O Espinosa del Rosario
           image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
+          website: 
           alt:  
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          alt:  
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          alt:  
-- name: Collaborators
-  list:
-    - full: true
-      list:
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          alt:  
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          alt:  
-- name: PostDogs
-  list:
-    - full: true
-      list:
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          alt: 
+        # - name: TBA
+        #   image: 
+        #   website: 
+        #   alt:  
+        # - name: TBA
+        #   image: 
+        #   website: 
+        #   alt:  
+# - name: Collaborators
+#   list:
+#     - full: true
+#       list:
+#         - name: 
+#           image: 
+#           website: 
+#           alt:  
+#         - name: TBA
+#           image: 
+#           website: 
+#           alt:  
+# - name: PostDogs
+#   list:
+#     - full: true
+#       list:
+#         - name: 
+#           image: 
+#           alt: 
 - name: Alumni
   list:
-    - full: False
-      name: Master's students
-      list:
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          alt:  
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
-          alt:  
+    # - full: False
+    #   name: Master's students
+    #   list:
+    #     - name: 
+    #       image: 
+    #       website: 
+    #       alt:  
+    #     - name: 
+    #       image: 
+    #       website: 
+    #       alt:  
     - full: False
       name: Undergraduate students
       list:
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
+        - name: Kenniel Torres
+          website: 
           alt:  
-        - name: TBA
-          image: ../../images/members/test_img.jpg
-          website: https://jacobdelgado1002.github.io/
+        - name: Christian Rodriguez
+          website: 
           alt:  
 #    - name: PhD students
 #      full: False

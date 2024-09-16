@@ -1,12 +1,12 @@
 # Guide for editing the Edge Computing Group Website UPRM
 
-Author: Jacob M. Delgado López
+## Author: Jacob M. Delgado López
 
 Hello! This is a guide on how to edit the Website for future students. (Hopefully I didn't do too bad of a job and the website is still being used). 
 
 I will explain the folders and their purpose. I will also mention when I folder was NOT edited during the creation of the website. If they were not edited then it's safe to assume you won't hve to either, unless you want to get creative and risk the website exploding :P 
 
-Folders:
+### Folders:
 
 _data = Contains yml files which are used to store stuctured data. For example, members.yml stores information about the lab members like names, roles, images, etc.
 
@@ -25,7 +25,7 @@ images - lab_photos = Contains group photos of the lab
 
 pages = Contains markdown files that have the structure of the pages in the navbar
 
-Important files you will probably edit:
+### Important files you will probably edit:
 
 index.html = This the home page for the website. Here you can edit the photo that is displayed, text or the PI's email
 
