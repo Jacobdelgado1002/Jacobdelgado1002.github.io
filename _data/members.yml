@@ -6,18 +6,18 @@
           image: ../../images/members/Wilfredo.jpg
           website: 
           alt: 
-- name: PostDocs
-  list:
-    - full: true
-      list:
-        - name: 
-          image: 
-          website: 
-          alt:  
-        - name: 
-          image: 
-          website: 
-          alt:  
+# - name: PostDocs
+#   list:
+#     - full: true
+#       list:
+#         - name: 
+#           image: 
+#           website: 
+#           alt:  
+#         - name: 
+#           image: 
+#           website: 
+#           alt:  
 # - name: PhD Students
 #   list:
 #     - full: true
