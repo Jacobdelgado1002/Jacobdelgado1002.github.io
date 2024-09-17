@@ -3,7 +3,7 @@
     - full: true
       list:
         - name: Wilfredo E Lugo Beauchamp
-          image: ../../images/members/Wilfredo.jpg
+          image: ../../images/members/test_img.jpg
           website: 
           alt: 
 # - name: PostDocs
@@ -77,7 +77,7 @@
     - full: true
       list:
         - name: Jacob M. Delgado López
-          image: ../../images/members/jacob.jpg
+          image: ../../images/members/test_img.jpg
           website: https://jacobdelgado1002.github.io/
           alt:  
         - name: Sebastián A. Cruz Romero
