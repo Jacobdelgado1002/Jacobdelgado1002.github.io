@@ -1124,3 +1124,32 @@ pre {
     display: inline-block;
   }
 }
+
+/* Custom Content Styling */
+
+table tr.year {
+  background-color: transparent;
+}
+
+table tr td, table tr {
+  border: transparent;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-resp {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.news-section {
+  max-height: 150px; /* Adjust height as needed */
+  overflow-y: auto; /* Enables vertical scrolling */
+  border: 1px solid #ccc; /* Optional: Adds a border around the section */
+  padding: 10px; /* Optional: Adds padding for better appearance */
+  background-color: #f9f9f9; /* Optional: Light background color for contrast */
+  border-radius: 5px; /* Optional: Adds rounded corners */
+}
