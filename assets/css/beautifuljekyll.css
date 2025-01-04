@@ -1146,7 +1146,7 @@ table tr td, table tr {
 }
 
 .news-section {
-  max-height: 150px; /* Adjust height as needed */
+  max-height: 100px; /* Adjust height as needed */
   overflow-y: auto; /* Enables vertical scrolling */
   border: 1px solid #ccc; /* Optional: Adds a border around the section */
   padding: 10px; /* Optional: Adds padding for better appearance */
