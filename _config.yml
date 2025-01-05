@@ -24,7 +24,7 @@ navbar-links:
   Publications: "pages/publications"
   # Experience: "pages/experience"
   Teaching: "pages/teaching"
-  CV: "paged/experience"
+  CV: "pages/cv"
 
 ################
 # --- Logo --- #
