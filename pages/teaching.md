@@ -7,8 +7,8 @@ I am passionate about teaching and helping others succeed academically. My exper
 
 - **Teaching Assistant**  
   *Course:* Data Structures  
-  *Duration:* January 2025  
+  *Duration:* Spring 2025  
 
 - **Teaching Assistant**  
   *Course:* Data Structures  
-  *Duration:* August 2022 - May 2024  
+  *Duration:* Fall 2022 - Spring 2024  

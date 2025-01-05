@@ -48,10 +48,10 @@ Beyond research, I've been actively involved in mentoring and tutoring to suppor
 
 - **Research Mentor**  
   *Lab:* Edge Computing Group 
-  *Duration:* August 2024 - Present  
+  *Duration:* Fall 2024 - Present  
   *Description:* Mentored undergraduate students in the Edge Computing Group by teaching them experiment design and technical writing
 
 - **Tutor**  
   *Course:* Calculus (I, II, and III) and Physics (I and II) 
-  *Duration:* July 2020 - May 2024  
+  *Duration:* Fall 2020 - Spring 2024  
   *Description:* Provided tutoring sessions to help students strengthen their understanding of Calculus and Physics concepts.
