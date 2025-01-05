@@ -3,7 +3,6 @@ layout: page
 title: Experience
 ---
 
-
 ## Research
 
 <script>
@@ -18,7 +17,7 @@ function toggleVisibility(id) {
 </script>
 
 <table cellpadding="10" width="100%">
-{% for research in site.data.research %}
+{% for research in site.data.experience %}
 <tr>
     <td width="200" height="100">
         {% if research.image %}
