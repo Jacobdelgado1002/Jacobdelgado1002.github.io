@@ -1,0 +1,13 @@
+- title: "Edge Computing Group"
+  time_period: "August 2023 - Present"
+  mentor: "Dr. Wilfredo Lugo"
+  description: "Explored the deployment of AI technologies in resource-constrained environments, focusing on healthcare and agricultural diagnostics."
+  details: "Worked on optimizing machine learning models for embedded devices using quantization and pruning techniques."
+  image: "/assets/images/research-ai.jpg"
+
+- title: "Efficient Algorithms for Large Data"
+  time_period: "January 2022 - July 2023"
+  mentor: "Dr. John Doe"
+  description: "Developed algorithms for processing large-scale datasets in real-time."
+  details: "Designed and implemented distributed algorithms to reduce computational costs by 30%."
+  image: "/assets/images/research-algorithms.jpg"

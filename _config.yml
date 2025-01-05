@@ -22,9 +22,9 @@ author: Jacob M. Delgado López
 navbar-links:
   Home: "https://jacobdelgado1002.github.io/edge-computing-upr.github.io/"
   Publications: "pages/publications"
-  Members: "pages/members"
-  Other:
-    - Lab photos: "pages/lab_photos"
+  Experience: "pages/experience"
+  Teaching: "pages/teaching"
+  # CV: 
 
 ################
 # --- Logo --- #
@@ -134,16 +134,28 @@ keywords: "biomedical,tinyML,edge-computing,machine-learning,artificial-intellig
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#C1E899"        # Light green for navbar background
-navbar-text-col: "#55883B"   # Dark green for navbar text 
-navbar-border-col: "#E6F0DC" # Very light green 
+
+navbar-col: "#53d4ff"        # Deep blue for navbar background (Puerto Rican flag blue)
+navbar-text-col: "#FFFFFF"   # White for navbar text
+navbar-border-col: "#E6E6E6" # Light gray for navbar border
 page-col: "#FFFFFF"          # White for page background
-text-col: "#404040"          # Gray
-link-col: "#55883B"          # Dark green for links, matching navbar text
-hover-col: "#9A6735"         # Brown for hover effect, matching text color
-footer-col: "#E6F0DC"        # Light green for footer background
-footer-text-col: "#55883B"   # Dark green for footer text
-footer-link-col: "#9A6735"   # Brown for footer links, matching text and hover
+text-col: "#000000"          # Dark gray for text
+link-col: "#75726F"          # Light grey
+hover-col: "#0050A4"         # Burgundy for hover effect (dark shade of red)
+footer-col: "#CF142B"        # Red for footer background
+footer-text-col: "#FFFFFF"   # White for footer text
+footer-link-col: "#53d4ff"   # Blue for footer links (to match navbar background)
+
+# navbar-col: "#C1E899"        # Light green for navbar background
+# navbar-text-col: "#55883B"   # Dark green for navbar text 
+# navbar-border-col: "#E6F0DC" # Very light green 
+# page-col: "#FFFFFF"          # White for page background
+# text-col: "#404040"          # Gray
+# link-col: "#55883B"          # Dark green for links, matching navbar text
+# hover-col: "#9A6735"         # Brown for hover effect, matching text color
+# footer-col: "#E6F0DC"        # Light green for footer background
+# footer-text-col: "#55883B"   # Dark green for footer text
+# footer-link-col: "#9A6735"   # Brown for footer links, matching text and hover
 
 
 # page-col: "#FFFFFF"
