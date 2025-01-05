@@ -22,9 +22,9 @@ author: Jacob M. Delgado López
 navbar-links:
   Home: "https://jacobdelgado1002.github.io/edge-computing-upr.github.io/"
   Publications: "pages/publications"
-  Experience: "pages/experience"
+  # Experience: "pages/experience"
   Teaching: "pages/teaching"
-  # CV: 
+  CV: "paged/experience"
 
 ################
 # --- Logo --- #
@@ -60,7 +60,7 @@ social-network-links:
   # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
- linkedin: "jacob-m-delgado-lopez-11588a240"
+#  linkedin: "https://pr.linkedin.com/in/jacob-m-delgado-lopez-11588a240"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

@@ -1,13 +1,47 @@
 - title: "Edge Computing Group"
-  time_period: "August 2023 - Present"
+  location: University of Puerto Rico Mayagüez
+  time_period: "January 2024 - Present"
   mentor: "Dr. Wilfredo Lugo"
-  description: "Explored the deployment of AI technologies in resource-constrained environments, focusing on healthcare and agricultural diagnostics."
+  description: "I am currently exploring various strategies to compress large machine-learning models to run inferences on 
+  embedded systems. The main challenge is selecting an embedded device and identifying a model that can be compressed without 
+  compromising accuracy based on the device's resource constraints"
   details: "Worked on optimizing machine learning models for embedded devices using quantization and pruning techniques."
-  image: "/assets/images/research-ai.jpg"
+  image: 
 
-- title: "Efficient Algorithms for Large Data"
-  time_period: "January 2022 - July 2023"
-  mentor: "Dr. John Doe"
-  description: "Developed algorithms for processing large-scale datasets in real-time."
-  details: "Designed and implemented distributed algorithms to reduce computational costs by 30%."
+- title: "LINXS Summer Research Program"
+  location: Stanford University
+  time_period: "June 2023 - August 2023"
+  mentor: "Dr. Jeannette Bohg"
+  description: "8-week summer residential program that brings innovative undergraduates who are currently attending Historically 
+  Black Colleges and Universities (HBCU) and Hispanic Serving Institutions (HSI) to an immersive academic research and graduate school 
+  preparation experience"
+  details:
   image: "/assets/images/research-algorithms.jpg"
+
+- title: "Robotics Institute Summer Scholars program"
+  location: Carnegie Mellon University
+  time_period: "May 2022 - August 2022"
+  mentor: "Dr. Zackory Erickson"
+  description: "11-week research immersion where participants can explore robotics labs and topics, meet with leaders in the field, 
+  attend workshops, be coached and mentored, present and publish their research, and grow as scholars"
+  details:
+  image: 
+
+- title: "SEAS Research Experience for Undergraduates program"
+  location: Harvard University
+  time_period: "June 2020 - August 2020"
+  mentor: "Dr. Jules Gardener"
+  description: "10-week Research Experience for Undergraduates that focuses on cutting-edge research in world-class laboratories, 
+  where participants focus on an in-depth research project while exploring multidisciplinary research topics and honing their science 
+  communication skills"
+  details:
+  image: 
+
+- title: "LSAMP Summer Research Experience for Undergraduates program "
+  location: Cornell University
+  time_period: "June 2020 - August 2020"
+  mentor: "Dr. Adrian Sampson"
+  description: "10-week Summer Research Experience program that provides undergraduate participants with the opportunity to work 
+  with distinguished faculty and staff as well as network with others in their field of interest"
+  details:
+  image: 
