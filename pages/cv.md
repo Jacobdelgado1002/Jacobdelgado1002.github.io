@@ -4,7 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
-<object data="../assets/CV-JacobDelgadoLopez.pdf" type="application/pdf" width="100%" height="800px">
-    <p>Your browser does not support PDFs. Please download the PDF to view it: 
-    <a href="../assets/CV-JacobDelgadoLopez.pdf">Download CV</a>.</p>
-</object>
+<div style="width: 100%; height: 600px; border: none; overflow: hidden;">
+  <iframe src="../assets/CV.pdf" width="100%" height="100%" style="border: none;">
+    Your browser does not support PDFs. Please <a href="../assets/CV.pdf">download my CV here</a>.
+  </iframe>
+</div>
