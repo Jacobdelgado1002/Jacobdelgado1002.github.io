@@ -1,10 +1,12 @@
 ---
 layout: page
 title: CV
+permalink: /cv/
 ---
 
-<div id="pdf" style="height: 800px;"></div>
-<script src="../js/pdfobject.min.js"></script>
-<script>
-PDFObject.embed("https://jacobdelgado1002.github.io/edge-computing-upr.github.io/assets/CV-JacobDelgadoLopez.pdf", "#pdf");
-</script>
+# Curriculum Vitae
+
+<object data="../assets/CV-JacobDelgadoLopez.pdf" type="application/pdf" width="100%" height="800px">
+    <p>Your browser does not support PDFs. Please download the PDF to view it: 
+    <a href="../assets/CV-JacobDelgadoLopez.pdf">Download CV</a>.</p>
+</object>
