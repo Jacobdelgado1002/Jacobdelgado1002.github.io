@@ -1,18 +1,34 @@
 # Find and Delete these: ’
-- title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis libero et imperdiet scelerisque."
-  authors: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis libero et imperdiet scelerisque.
-  year: 2024
-  type: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis libero et imperdiet scelerisque.
-  venue: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis libero et imperdiet scelerisque.
-  image: ../images/robogen-icml.png
-  id: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis libero et imperdiet scelerisque.
-  projectpage: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis libero et imperdiet scelerisque.
-  code: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis libero et imperdiet scelerisque.
-  bibtex: |
-    @inproceedings{Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis libero et imperdiet scelerisque.}
-  abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis libero et imperdiet scelerisque."
+- title: "Sim2Real Transfer for Capacitive Sensors Utilizing Assistive Gym's Capacitive Sensing Simulation Framework"
+  authors: Jacob M Delgado-López, Yufei Wang, Zackory Erickson
+  year: 2022
+  type: Journal
+  venue: Robotics Institute Summer Scholars
+  image: ../images/publications/RISS.png
+  id: 
+  projectpage: 
+  code: 
+  bibtex: 
+  abstract: "Capacitive sensing is a type of near-range sensing technology with a unique feature of sensing through non-conductive occlusions. Such a feature is especially useful for assistive robots that provide caregiving services as they can improve the quality of life of people with disabilities. For example, in robot-assisted dressing, capacitive sensors can be used to track the person’s arms even under the occlusion of the cloth. That being said, directly designing and collecting data with capacitive sensors for robots interacting with humans in the real world can be slow, costly, and unsafe. On the other hand, robotics simulation provides a cheaper, safer, and more instructive alternative to real-world experimentation. In this project, we aim 1) to leverage a recently developed capacitive sensing simulation framework in Assistive Gym to optimize the design of capacitive sensors for assistive robots, 2) to learn a controller using simulated capacitive data for several assistive tasks, and 3) perform simulation to real-world (Sim2Real) transfer of the results to real-world robots. We first show that the gap between the simulation and the real world can be closed via optimizing simulation parameters. We then optimize the capacitive sensor design and train robotic controllers for a set of caregiving tasks in Assistive Gym using a large amount of the simulated capacitive data. At last, we build real-world replications of the simulated assistive tasks and show the capacitive sensor design and controllers obtained in the simulation can be transferred to real-world robots. Overall, we showcase the benefits of utilizing capacitive sensors in caregiving tasks and the advantages of utilizing simulation to train capacitive sensing models prior to real world experimentation."
   video: 
-  pdf: 
+  pdf: https://riss.ri.cmu.edu/wp-content/uploads/2023/08/CMU-RISS_Working_Papers_Journal-2022-PAPERS.pdf
   news: 
   awards: 
+
+# - title: "Sim2Real Transfer for Capacitive Sensors Utilizing Assistive Gym's Capacitive Sensing Simulation Framework"
+#   authors: Jacob M Delgado-López, Yufei Wang, Zackory Erickson
+#   year: 2022
+#   type: Journal
+#   venue: Robotics Institute Summer Scholars
+#   image: ../images/publications/RISS.png
+#   id: 
+#   projectpage: 
+#   code: 
+#   bibtex: |
+#     @inproceedings{Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis libero et imperdiet scelerisque.}
+#   abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis libero et imperdiet scelerisque."
+#   video: 
+#   pdf: https://riss.ri.cmu.edu/wp-content/uploads/2023/08/CMU-RISS_Working_Papers_Journal-2022-PAPERS.pdf
+#   news: 
+#   awards: 
 
