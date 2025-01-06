@@ -10,4 +10,4 @@ permalink: /cv/
   </iframe>
 </div> -->
 
-<meta http-equiv="refresh" content="0; URL=../assets/CV.pdf" />
+<!-- <meta http-equiv="refresh" content="0; URL=../assets/CV.pdf" /> -->
