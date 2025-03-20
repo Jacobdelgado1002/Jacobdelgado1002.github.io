@@ -20,7 +20,7 @@ author: Jacob M. Delgado López
 ###############################################
 
 navbar-links:
-  Home: "https://jacobdelgado1002.github.io/edge-computing-upr.github.io/"
+  Home: "https://jacobdelgado1002.github.io/test-jacob.github.io/"
   Publications: "pages/publications"
   # Experience: "pages/experience"
   Teaching: "pages/teaching"
@@ -100,7 +100,7 @@ social-network-links:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://jacobdelgado1002.github.io/edge-computing-upr.github.io/"
+url-pretty: "https://jacobdelgado1002.github.io/test-jacob.github.io/"
 
 # Add the website title to the title of every page
 title-on-all-pages: false
